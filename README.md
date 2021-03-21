@@ -1,5 +1,8 @@
 # Start Your Lab's Manual
 
+Learn how to get your lab started with digital collaboration tools
+that help facilitate teamwork at the lab and field levels.
+
 <!-- toc -->
 
 - [Introduction](#introduction)
